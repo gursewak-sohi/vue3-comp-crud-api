@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gursewak Singh",
+      "title": "Front-end Devleoper",
+      "email": "sohi.gursewak@gmail.com",
+      "role": "Super Admin"
+    },
+    {
+      "id": 2,
+      "name": "Harjot kaur",
+      "title": "Front-end Devleoper",
+      "email": "sohi.gursewak@gmail.com",
+      "role": "Super Admin"
+    },
+    {
+      "name": "demo",
+      "title": "demo",
+      "email": "demo@demo.com",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "name": "sda",
+      "title": "asdf",
+      "email": "asdf@asdf.com",
+      "role": "Super Admin",
+      "id": 4
+    },
+    {
+      "name": "Jani2",
+      "title": "asd",
+      "email": "s@s.com",
+      "role": "Admin",
+      "id": 5
+    }
+  ]
+}
