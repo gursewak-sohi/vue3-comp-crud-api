@@ -1,6 +1,6 @@
 # vue3-comp-crud-api
 
-This template should help get you started developing with Vue 3 in Vite.
+Basic crud operation with vue3 composition api + json server API
 
 ## Project Setup
 
@@ -11,14 +11,14 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-cd server
-json-server --watch db.json --port 3000
+npm run dev
 ```
 
 ### Compile and Hot-Reload for Server
 
 ```sh
-npm run build
+cd server
+json-server --watch db.json --port 3000
 ```
 
 ### Compile and Minify for Production
@@ -26,5 +26,6 @@ npm run build
 ```sh
 npm run build
 ```
+
 
  
